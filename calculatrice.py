@@ -14,7 +14,7 @@ print("2. Soustraction")
 print("3. multiplication")
 print("4. Division")
 
-choice = input("Entrez votre choix (1/2/3/4): ")
+choice = input("Entrez votre choix (1/2/3/5): ")
 num1 = float(input("Entrez le premier nombre: "))
 num2 = float(input("Entrez le deuxième nombre: "))
 if choice == '1':
